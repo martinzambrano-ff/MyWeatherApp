@@ -1,1 +1,7 @@
 /build
+# Mis llaves secretas locales
+local.properties
+
+# Archivos basura del sistema Mac
+.DS_Store
+**/.DS_Store
