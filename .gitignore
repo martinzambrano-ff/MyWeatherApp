@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/.kotlin
+/build
+
+# Mac basura
+.DS_Store
+**/.DS_Store
